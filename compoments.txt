@@ -1,0 +1,4 @@
+res1=56kohm green-lue r=orange
+Capa=1.5 nf
+range
+1000 to 100000
